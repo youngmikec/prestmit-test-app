@@ -83,9 +83,6 @@ const ConnectSection = () => {
                             </div>
                         </div>
 
-                        <div className="my-8">
-                            <AppButton color="dark" labelText="Start now" />
-                        </div>
                     </div>
                     <div className='flex justify-end'>
                         <div className='relative'>
